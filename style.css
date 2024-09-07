@@ -16,7 +16,7 @@
 body {
   font-family: "Barlow Semi Condensed", sans-serif;
   margin: auto;
-  background-color: var(--light-grey);
+  background-color: var(--light-grayish-blue);
   max-width: var(--desktop-size);
   height: 100dvh;
   width: 100vw;
